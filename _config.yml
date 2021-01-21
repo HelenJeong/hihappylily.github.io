@@ -12,7 +12,7 @@ url:                  https://hihappylily.github.io/
 # Set to '/<reponame>' when using the `gh-pages` branch of a repository
 baseurl:             ""
 
-# A very short description of your page
+# A very short description of your page 
 tagline:             "릴리 블로그"
 
 # A short description of the page, used in the sidebar and as fallback for the meta description tag.
